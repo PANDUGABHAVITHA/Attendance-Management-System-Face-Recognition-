@@ -2,6 +2,25 @@
 Attendance Management System 
 
 
+ALGORITHM USED:
+LBPH Algorithm
+
+
+Features
+Adding Student Details
+Deleting Student Details
+Editing Student Details
+Take the Student Photo Sample
+Import Attendace in CSV format
+Export Attendace in CSV format
+ChatBot
+Contact with Developer
+Automatic Attendace with Face Recognition
+
+DATABASE
+Relational Database Management System (RDBMS)
+
+
 
 MODULES:
 
